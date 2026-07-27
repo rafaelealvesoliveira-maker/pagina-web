@@ -18,14 +18,6 @@
 <p>Por: Rafaele Alves</p>
 <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área de tecnologia.</p>
 </main>
- header {
-    background-color: #183C63;
-    color: #FFFFFF;
-    text-align: center;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 16px;
-}
 main {
 background-color: #FFFFFF;
 color: #183C63;
